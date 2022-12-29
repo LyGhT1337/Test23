@@ -1,18 +1,18 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "dev.replugged.DiscordDarkness",
+  "name": "DiscordDarkness",
+  "description": "Compact, squared and dark for nightowls!",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "LyGhT",
+    "discordID": "301082610438897664",
+    "github": "LyGhT1337"
   },
-  "version": "1.0.2",
+  "version": "3.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/theme-template"
+    "id": "LyGhT1337/DiscordDarkness"
   },
   "license": "MIT",
   "type": "replugged-theme",
-  "main": "src/main.css"
+  "main": "Css/Base.css"
 }
